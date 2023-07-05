@@ -39,6 +39,7 @@ class TutorialKart extends StatelessWidget {
                 style: TextStyle(
                   color: Colors.blue,
                   fontSize: 30,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
             ),
